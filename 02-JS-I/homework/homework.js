@@ -70,7 +70,7 @@ function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (length(str1) == length(str2){
+  if (str1.length == str2.length){
     return (true)
   }
   return(false)
@@ -172,7 +172,7 @@ function obtenerSaludo(nombre) {
   // "Martin" -> "Hola Martin!"
   // Tu código:
   var Saludo = "Hola "
-  return(Saludo + nombre)
+  return(Saludo + nombre + "!")
 }
 
 function obtenerAreaRectangulo(alto, ancho) {
