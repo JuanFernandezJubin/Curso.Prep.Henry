@@ -1,0 +1,5 @@
+Prototype: Es una propiedad que tienen todos los objetos de JavaScrip la cual nos permite organizar
+distintos objetos y heredar metodos y propiedades .
+
+Constructor: es una función de la clase(o metodo) la cual instancia a la misma, o sea que crea dicho objeto
+en particular. 
