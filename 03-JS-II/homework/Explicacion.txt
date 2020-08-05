@@ -1,0 +1,6 @@
+* `for`, es un ciclo(bucle) que sirve para recorrer desde un indice princpal a un final, alguna secuencia. Por ejemplo
+    "desde 0 a 10 hacer "algo""
+* `&&`, `||`, `!` 
+&& sirve para condicionar una pregunta logica, si "problema1" y "problema" se dan, hacer "lo siguiente"
+|| condicional OR o "O". si A o B hago C
+! es el operador "NOT" Logico 
