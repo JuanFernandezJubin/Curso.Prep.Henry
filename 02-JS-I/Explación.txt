@@ -1,0 +1,7 @@
+    * Variables : son espacios en memoria en los cuales puedo guardar un valor y modificarlo con el tiempo
+	* Strings: son cadenas de caracteres(letras, numeros o simbolos.).
+	* Funciones (argumentos, `return`): las funciones son metodos que reciben o no algun tipo de parametro(argumentos)
+        para desempeñar una tarea especifica y los ,devuelven o no,segun sea el caso, resueltos por medio de un return
+	* Declaraciones `if`: es un condicional , si se cumple una condicion, sucedera algo en especial, al igual que si no se cumple
+	* Valores booleanos (`true`, `false`) es un tipo de dato logico que puede almacenar binario, 0 o 1, verdadero o falso, me sirve
+        para determinar ciertos problemas de logica.
