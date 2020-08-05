@@ -1,0 +1,7 @@
+* Objetos
+	* Propiedades : son los atributos que tiene el objeto : ejemplo un auto tiene color, marca, tipo,etc
+	* Métodos son procedimientos o funciones que tiene un objeto : ejemplo un auto tiene el metodo acelerar y frenar
+	* Bucle `for…in` el bucle FOR es un "PARA" desde A hasta B realizar C
+	* Notación de puntos vs notación de corchetes la notacion de puntos es mas facil de interpretar ya que puede 
+        tomarse como varibles de TIPO. por ejemplo Alumno.Nombre y las notificiaciones de corchete te sirven PARA entender
+        bien como se maneja el lenguaje.
