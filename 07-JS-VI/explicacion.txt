@@ -1,0 +1,2 @@
+Callbacks -> son funciones que se pasan como parametro a otra funcion. Hay que tener en cuanta que cuando pasamos
+un callback se pasa como parametro la funsion pero no la ejecutamos en ese momento. 
